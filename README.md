@@ -1,2 +1,6 @@
 # APL3-221b120
-this is my first git based program.
+This repository holds solutions to the exercises of Advance Programming Lab-3.
+It contains:
+* Basics of Java
+* OOPs in Java 
+* Design Patterns implemented in Java.
