@@ -1,0 +1,27 @@
+# Introductory command
+docker run hello-world
+
+## Goal to construct a network to establish communication between two containers
+
+# Inspecting list of networks
+docker network ls
+
+# Create a network named "mongo-network"
+docker network create mongo-network
+
+# Check if its built
+docker network ls
+
+# Create a container for mongo in the network
+docker run -d -p 27017:27017 --name mongo --network mongo-network -e MONGO_INITDB_ROOT_USERNAME=admin -e MONGO_INITDB_ROOT_PASSWORD=admin mongo
+
+# Check if the container was built
+docker network inspect mongo-network
+
+# Create a container for mongo-express in the network
+docker run -d -p 8081:8081 --name mongo-express --network mongo-network -e ME_CONFIG_MONGODB_ADMINUSERNAME=admin -e ME_CONFIG_MONGODB_ADMINPASSWORD=admin -e ME_CONFIG_MONGODB_URL="mongodb://admin:admin@mongo:27017" mongo-express
+
+# Check if the container was built
+docker network inspect mongo-network
+
+# Check if they are communicating with one another
