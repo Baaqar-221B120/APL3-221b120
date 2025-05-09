@@ -1,0 +1,14 @@
+# Start the orchestrator
+> open git bash 
+>> node orchestrator.js 
+
+
+# Commands
+status — view which nodes are running and their last role
+kill <port> — send Ctrl+C to that node
+respawn <port> — bring back a stopped node
+killall / respawnall — batch operations
+help / exit
+
+# Output 
+> is available in raft_log.txt

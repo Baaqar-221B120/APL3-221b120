@@ -1,0 +1,1511 @@
+== RAFT MANUAL CONTROL SESSION START ==
+
+Spawning node 3000 (fellows: 3001,3002)
+Spawning node 3001 (fellows: 3000,3002)
+Spawning node 3002 (fellows: 3000,3001)
+[node 3002] [3002] with fellows 3000,3001
+[node 3001] [3001] with fellows 3000,3002
+[node 3000] [3000] with fellows 3001,3002
+[node 3002] 3002 becomes the leader
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+Node 3000 exited (code=null, signal=SIGINT)
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+Spawning node 3000 (fellows: 3001,3002)
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3001] Received heartbeat from 3002
+[node 3002] [3002] heartbeat to 3000 failed: 
+[node 3000] [3000] with fellows 3001,3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3001] Received heartbeat from 3002
+[node 3000] Received heartbeat from 3002
+Node 3002 exited (code=null, signal=SIGINT)
+[node 3001] 3001 becomes the leader
+[node 3001] Failed to contact fellow 3002
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
+[node 3000] Received heartbeat from 3001
+[node 3001] [3001] heartbeat to 3002 failed: 
